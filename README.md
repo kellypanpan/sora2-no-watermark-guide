@@ -10,4 +10,4 @@ Notes on generating clean, watermark-free Sora-style videos.
 
 ## Online Generator
 Create Sora-style videos without watermark:
-https://saro2.ai
+[My AI Video Site – Saro2](https://saro2.ai)
